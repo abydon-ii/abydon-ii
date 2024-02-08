@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abydon-ii the guy working on HOBBY projects at https://www.idleinteractive.com
+- Keep in mind, code quality will be lower due to limited time and a focus on shipping MVPs / scratching my itches in a time/cost effective manner.
+- Any revisions to pull requests made by me or code reviews or anything like that will have long delays due to the fact this is just for hobby projects with no real commercial viability plans beyond maybe breaking even on my hobby hosting expenses.
+- I'm experimenting mostly with AI and Browser Games (Mix of Grand Strategy and async PbP-style Roleplay). As well as just experimental software processes / tooling to help with that.
+- Keep in mind I'm not a professional game dev or AI dev (as that'd lead to conflicts of interest with my employers) so alot of what I tinker with is not something I have experience in.
